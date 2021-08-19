@@ -1,0 +1,23 @@
+body{
+    font-family: cursive ;
+}
+
+h1{
+    font-size: 50px;
+    font-family: monospace;
+}
+
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 100px;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
